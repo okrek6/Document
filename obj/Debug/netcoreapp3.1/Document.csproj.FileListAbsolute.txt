@@ -9,3 +9,14 @@
 /Users/krekeler/Desktop/Document/obj/Debug/netcoreapp3.1/Document.AssemblyInfo.cs
 /Users/krekeler/Desktop/Document/obj/Debug/netcoreapp3.1/Document.dll
 /Users/krekeler/Desktop/Document/obj/Debug/netcoreapp3.1/Document.pdb
+C:\Users\Brendan Krekeler\Desktop\Document\bin\Debug\netcoreapp3.1\Document.exe
+C:\Users\Brendan Krekeler\Desktop\Document\bin\Debug\netcoreapp3.1\Document.deps.json
+C:\Users\Brendan Krekeler\Desktop\Document\bin\Debug\netcoreapp3.1\Document.runtimeconfig.json
+C:\Users\Brendan Krekeler\Desktop\Document\bin\Debug\netcoreapp3.1\Document.runtimeconfig.dev.json
+C:\Users\Brendan Krekeler\Desktop\Document\bin\Debug\netcoreapp3.1\Document.dll
+C:\Users\Brendan Krekeler\Desktop\Document\bin\Debug\netcoreapp3.1\Document.pdb
+C:\Users\Brendan Krekeler\Desktop\Document\obj\Debug\netcoreapp3.1\Document.csprojAssemblyReference.cache
+C:\Users\Brendan Krekeler\Desktop\Document\obj\Debug\netcoreapp3.1\Document.AssemblyInfoInputs.cache
+C:\Users\Brendan Krekeler\Desktop\Document\obj\Debug\netcoreapp3.1\Document.AssemblyInfo.cs
+C:\Users\Brendan Krekeler\Desktop\Document\obj\Debug\netcoreapp3.1\Document.dll
+C:\Users\Brendan Krekeler\Desktop\Document\obj\Debug\netcoreapp3.1\Document.pdb
