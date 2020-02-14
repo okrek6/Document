@@ -1,24 +1,25 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 
 namespace Document
 {
     class start
     {
-        public static void Greeting()
+        public static string CreateDoc()
         {
             Console.WriteLine("----Document----\n");
-            Console.ReadLine();
+            Console.Write("Enter the name of the Document: ");
+            string fileName = Console.ReadLine();
+            Console.Write("Type what is in the Document: ");
+            string text = Console.ReadLine();
+            return text;
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            start.Greeting(); 
+            start.CreateDoc(); 
         }
     }
 }
